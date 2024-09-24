@@ -1,0 +1,21 @@
+{
+  "getJuegos": [
+    {
+      "gameId": 1,
+      "gameName": "Juego 1",
+      "description": "Descripcion del juego 1",
+      "apuestaMin": 10,
+      "apuestaMax": 100
+    },
+    {
+      "gameId": 2,
+      "gameName": "Juego 2",
+      "description": "Descripcion del juego 2",
+      "apuestaMin": 20,
+      "apuestaMax": 50
+    }
+  ],
+  "getUserById": {
+    "name": "Daniel"
+  }
+}
